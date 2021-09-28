@@ -10,7 +10,7 @@ Project No: 26 <br>
 Year: 2021
 
 ## Demo Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/k9MkIq6ad-4/0.jpg)](http://www.youtube.com/watch?v=k9MkIq6ad-4 "3D-Boat || 3D project")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/gN6MA1aLdI4/0.jpg)](http://www.youtube.com/watch?v=gN6MA1aLdI4 "3D-Boat || 3D project")
 
 
 ## Render
